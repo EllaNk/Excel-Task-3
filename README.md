@@ -44,6 +44,8 @@ Using SumIF functions, it was calculated that the total profit made in the month
 
 Below shows the screenshot of the answered questions from the dataset:
 
+![](Advanced_Function.png)
+
 
 ## Conclusion:
 In the advanced function of Microsoft Excel, I successfully demonstrated the use of various functions to solve valuable problems from the dataset. These functions, including SUMIF, SUMIFS, COUNTIF, COUNTIFS, AVERAGEIF, and AVERAGEIFS, allowed me to answer specific questions related to revenue, sales, segments, products, sales, and profits. This task proves the power of advanced Excel functions in performing data analytics and making informed business decisions
