@@ -1,8 +1,11 @@
-Avanced Fuctions in Excel
-Introduction:
+# Avanced Fuctions in Excel
+
+## Introduction:
+
 This report focuses on advanced functions in Microsoft Excel and the aim is to familiarize with advanced functions. In this task, a dataset was given to answer specific questions related to revenue, sales, segments, products, months, and profits.
 
-Skills/Concepts:
+## Skills/Concepts:
+
 The following advanced functions were demonstrated in the task:
 
 SUMIF
@@ -11,7 +14,9 @@ COUNTIF
 COUNTIFS
 AVERAGEIF
 AVERAGEIFS
-Problem Statement:
+
+## Problem Statement:
+
 We are to answer the following questions based on the provided data:
 
 Average Revenue per Sale of 'Paseo'
@@ -19,7 +24,9 @@ Sales in the Government and Mid-Market Segments
 Total Revenue from Sales of 'Montana' in Canada
 Highest Unit of Goods Sold
 Total Profit in December
-Analysis and Results:
+
+## Analysis and Results:
+
 1. Average Revenue per Sale of 'Paseo':
 Using the AVERAGEIF function, it was found that the average revenue generated from each sale of 'Paseo' is $176,295.36
 
@@ -38,5 +45,5 @@ Using SumIF functions, it was calculated that the total profit made in the month
 Below shows the screenshot of the answered questions from the dataset:
 
 
-Conclusion:
+## Conclusion:
 In the advanced function of Microsoft Excel, I successfully demonstrated the use of various functions to solve valuable problems from the dataset. These functions, including SUMIF, SUMIFS, COUNTIF, COUNTIFS, AVERAGEIF, and AVERAGEIFS, allowed me to answer specific questions related to revenue, sales, segments, products, sales, and profits. This task proves the power of advanced Excel functions in performing data analytics and making informed business decisions
